@@ -1,0 +1,4 @@
+product_id,product_name,product_code,product_slug,product_description,product_price,product_status,product_qty,product_unit,category_id,category_name,category_code,category_slug,category_status,category_photo,user_id,user_name,user_email,user_role,user_status
+1,Smartphone X,P001,smartphone-x,Smartphone dengan layar besar dan baterai tahan lama.,2000000,Active,50,pcs,1,Elektronik,CAT001,elektronik,Active,elektronik.jpg,1,agus,agus01@gmail.com,IT Support,Lajang
+2,T-shirt Fashion,P002,t-shirt-fashion,T-shirt kasual untuk pria dan wanita.,150000,Active,100,pcs,2,Fashion,CAT002,fashion,Active,fashion.jpg,2,arga,arga0111@gmail.com,Manager,Menikah
+3,Office Chair,P003,office-chair,Kursi kantor ergonomis untuk kenyamanan kerja.,750000,Inactive,30,pcs,3,Furniture,CAT003,furniture,Inactive,furniture.jpg,1,agus,agus01@gmail.com,IT Support,Lajang
